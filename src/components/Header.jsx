@@ -23,13 +23,13 @@ const Header = () => {
 
         </ul>
           <div className="header-right">
-            <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+            <a href="https://www.linkedin.com/iin/sartak-dhankar-3a56b4270" target="_blank">
             <FaLinkedin className="header-icon" />
             </a>
-            <a href="https://github.com/yourusername" target="_blank">
+            <a href="https://github.com/sartakdhankar" target="_blank">
             <FaGithub className="header-icon" />
             </a>
-            <a href="https://leetcode.com/yourusername" target="_blank">
+            <a href="https://leetcode.com/u/sartakdhankar" target="_blank">
             <SiLeetcode className="header-icon" />
             </a>
             </div>
