@@ -1,6 +1,6 @@
 import React from "react";
 import '../styles/Hero.css';
-import profileImg from '../../public/assets/images/profile.jpg'; // Adjust the path as necessary
+import profileImg from '../assets/profile.jpg'; // Adjust the path as necessary
 
 export default function Hero() {
     return (
