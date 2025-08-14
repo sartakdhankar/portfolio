@@ -23,7 +23,7 @@ const Header = () => {
 
         </ul>
           <div className="header-right">
-            <a href="https://www.linkedin.com/iin/sartak-dhankar-3a56b4270" target="_blank">
+            <a href="https://www.linkedin.com/in/sartak-dhankar-3a56b4270/" target="_blank">
             <FaLinkedin className="header-icon" />
             </a>
             <a href="https://github.com/sartakdhankar" target="_blank">
