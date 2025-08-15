@@ -14,4 +14,12 @@ body{
     
 }
 
+section {
+  scroll-margin-top: 90px; /* Works when clicking nav links */
+}
+
+main {
+  padding-top: 90px; /* Pushes first section down */
+}
+
 
